@@ -13,11 +13,18 @@ Bienvenidos a mi perfil de GitHub, Soy David Escarre Gonzalez, actualmente un es
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ### ![Dominadas](https://img.icons8.com/?size=25&id=25645&format=png&color=000000) Dominadas
-![HTML5](https://skillicons.dev/icons?i=html&theme=light)
-![CSS](https://skillicons.dev/icons?i=css&theme=light)
-![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-![figma](https://skillicons.dev/icons?i=figma&theme=light)
+![NetBeans](https://img.shields.io/badge/NetBeans-FFA500.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5C2D91.svg?style=for-the-badge&logo=java&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-00796B.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Springboot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## 📂 Proyectos Destacados
 
 ### [📌 Proyecto 1](https://github.com/DavidEscarre/AnyStock)
